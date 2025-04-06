@@ -156,6 +156,10 @@ on candy_sale_dup2 .`Product ID`=candy_products_dup.`Product ID`;
 select * from main_candy_sales;
 ```
 
+### After thorough data cleaning and preparation on Mysql, i performed the analysis on the cleaned data using microsoft excel .
+I also made use of MS Excel to visualize the data to an understandable form to make it easy for decision makers and stakeholders.
+Each questions asked by the firm decisionmakers was rightly answered in this analysis, by walking them through every bit of my analysis i was able to provide solutions to problems faced by Celop Candy.
+
 
 
 
