@@ -24,6 +24,28 @@ insights that can provide solution to the problem faced by Celop Candy.
 - Factory with highest production ?
 - Top profitable products ?
 
+# Key Insights 
+- 1. What region do we have the highest profit made?
+Pacific Region
+The Pacific region stands out with the highest profit among all the regions displayed.
+
+- 2. Which division produces the most sales?
+Chocolate Division
+The pie chart under "Sales by Division" shows that the Chocolate division accounts for the majority of sales, dominating over Sugar and Other.
+
+- 3. The most used method of shipping?
+Standard Class
+The bar chart in the "Most Used Shipping Mode" section clearly shows Standard Class as the most commonly used shipping method by far.
+
+- 4. Factory with highest production?
+Lot’s O’ Nuts Factory
+This factory produces the highest number of products, followed closely by Wicked Choccy’s, as seen in the "No. Product Produce by Factory" chart.
+
+- 5. Top profitable products?
+Wonka Bar – Triple Dazzle Caramel
+Wonka Bar – Scrumdiddlyumptious
+Wonka Bar – Milk Chocolate
+
 # Data Analysis
 ## Here are codes written by me to prepare and clean the data
 - duplicating candy_sales table
